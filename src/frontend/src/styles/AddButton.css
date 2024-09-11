@@ -1,0 +1,15 @@
+.addButton_container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  right: 150px;
+  top: calc(50% - 100px/2 + 380px);
+  background: #0060df;
+}
+.addButton{
+  width: 45%;
+}
