@@ -505,3 +505,4 @@ dotnetglobaltools/
 test_results/
 coveragereport/
 .sonarqube/
+/ppt
